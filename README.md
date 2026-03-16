@@ -33,6 +33,10 @@ The output includes:
 npm install -g mcp-contract-security
 ```
 
+Published package:
+- npm: https://www.npmjs.com/package/mcp-contract-security
+- MCP Registry: https://registry.modelcontextprotocol.io/v0/servers/io.github.mastrophot%2Fcontract-security-scanner/versions/0.1.1
+
 ## MCP config (Claude Desktop)
 
 ```json

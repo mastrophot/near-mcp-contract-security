@@ -88,6 +88,7 @@ Additional publish assets are prepared in `deliverables/`:
 - `deliverables/mcp-registry-submission.md`
 - `deliverables/security-subreddit-posts.md`
 - `deliverables/blog-why-near-contracts-safer.md`
+- `server.json` (MCP Registry metadata, schema-validated)
 
 ## License
 

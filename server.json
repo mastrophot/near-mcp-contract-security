@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-09/server.schema.json",
+  "name": "io.github.mastrophot/contract-security-scanner",
+  "description": "Smart contract security scanner MCP server for Solidity/Rust/TypeScript with NEAR security model context.",
+  "status": "active",
+  "repository": {
+    "url": "https://github.com/mastrophot/near-mcp-contract-security",
+    "source": "github"
+  },
+  "version_detail": {
+    "version": "0.1.1"
+  },
+  "packages": [
+    {
+      "registry_name": "npm",
+      "name": "mcp-contract-security",
+      "version": "0.1.1",
+      "package_arguments": [
+        "mcp-contract-security"
+      ],
+      "environment_variables": []
+    }
+  ]
+}

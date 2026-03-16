@@ -1,6 +1,7 @@
 {
   "name": "mcp-contract-security",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "mcpName": "io.github.mastrophot/contract-security-scanner",
   "description": "MCP server for smart contract security scanning with NEAR security model comparisons",
   "type": "module",
   "main": "dist/index.js",
